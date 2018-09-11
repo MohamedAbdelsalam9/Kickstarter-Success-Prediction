@@ -1,4 +1,4 @@
-# Kickstarter-Success-Prediction
+# Kickstarter_Success_Prediction
  
 Dataset: <br />
 https://www.kaggle.com/oscarvilla/kickstarter-nlp <br />
